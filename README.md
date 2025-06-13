@@ -1,6 +1,6 @@
-# 🧬 Social-Media-Content-Performance
+#  Social-Media-Content-Performance
 
-![Task 34A - Cancer Dashboard](https://github.com/user-attachments/assets/334fa835-f5de-4553-8211-bdb213fa37b0)
+![Social Media Dashboard](https://github.com/Haruharun/Social-Media-Content-Performance-/blob/7d2ff3fb70a0c904edef0740fb3df51fcea5fe57/Screenshot%202025-06-12%20140013.png)
 
 
 
