@@ -2,7 +2,7 @@
 
 ![Social Media Dashboard](https://github.com/Haruharun/Social-Media-Content-Performance-/blob/7d2ff3fb70a0c904edef0740fb3df51fcea5fe57/Screenshot%202025-06-12%20140013.png)
 
-### Dashboard live link : https://app.powerbi.com/groups/me/reports/577149f4-a89b-4960-94d5-395b3cb6ea8e/
+### Dashboard live link : https://shorturl.at/P6NsP
 
 
 ## Overview  
