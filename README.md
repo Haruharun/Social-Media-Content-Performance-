@@ -1,6 +1,6 @@
 #  Social-Media-Content-Performance
 
-![Social Media Dashboard](https://github.com/Haruharun/Social-Media-Content-Performance-/blob/7d2ff3fb70a0c904edef0740fb3df51fcea5fe57/Screenshot%202025-06-12%20140013.png)
+![Social Media Dashboard](https://github.com/Haruharun/Social-Media-Content-Performance-/blob/2b0047121295581259e5ff16c61a755a9c9b28cd/Screenshot%202025-06-20%20192309.png)
 
 ### Dashboard live link : https://shorturl.at/P6NsP
 
